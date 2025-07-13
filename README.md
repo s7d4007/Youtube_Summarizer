@@ -25,7 +25,7 @@ This is an AI-powered YouTube video summarizer that:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/s7d4007/youtube-summarizer.git
+git clone https://github.com/s7d4007/Youtube_Summarizer.git
 cd youtube-summarizer
 Install dependencies
 
